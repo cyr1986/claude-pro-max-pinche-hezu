@@ -3,7 +3,7 @@
 
 **最近更新**：2025年11月16日 – 新增Claude 3.5 Sonnet优化技巧 & 2025黑五优惠码
 
-![Claude Pro合租海报 - 2025最新攻略](https://github.claude-codex.com)  
+![Claude Pro合租海报 - 2025最新攻略](http://github.claude-codex.cn/statics/img/github.png)  
 *Alt: Claude Pro合租2025攻略，无需VPN的Claude Pro拼车平台推荐*
 
 Claude AI（克劳德）是Anthropic推出的前沿大模型，在长上下文处理（超200K tokens）、多模态分析（文本+图像）、逻辑推理与抗幻觉上领先ChatGPT，尤其适合代码调试、报告生成、创意写作、数据分析等专业场景。Claude 3.5 Sonnet/Opus模型响应更快、准确率更高，已成开发者/研究者的必备工具。
