@@ -32,7 +32,7 @@ Claude AI（克劳德）是Anthropic推出的前沿大模型，在长上下文�
 ## Claude-Codex 官网一键直达：**claude-codex** – 国内最稳Claude Pro合租平台
 
 **品牌名**：**claude-codex**  
-**官网网址**：[https://github.claude-codex.com](https://github.claude-codex.com)  
+**官网网址**：[https://github.claude-codex.com](https://github.claude-codex.cn)  
 
 **claude-codex** 专注AI工具共享，2025年全新升级：
 - **国内直连**：无需VPN，延迟<50ms，镜像通道稳定。
@@ -40,7 +40,7 @@ Claude AI（克劳德）是Anthropic推出的前沿大模型，在长上下文�
 - **极致低价**：Claude Pro ，黑五码 *HEIWU-github-2025** 享8.5折（客服领取）。
 - **全天护航**：7x24中文客服 + 视频教程，新手秒上手。
 
-> **立即访问官网** → [https://github.claude-codex.com](https://github.claude-codex.com)  
+> **立即访问官网** → [https://github.claude-codex.com](https://github.claude-codex.cn)  
 > *一键跳转，5秒进入Claude Pro世界*
 
 ![claude-codex 官网首页](https://example.com/claude-codex-home.png)  
@@ -70,7 +70,7 @@ Claude AI（克劳德）是Anthropic推出的前沿大模型，在长上下文�
 1. 稳定VPN连 https://claude.ai。  
 2. Gmail注册，跳手机号（用平台虚拟码）。  
 3. 选“开发者”用途，进Pro试用。  
-4. 充值？转 **[claude-codex](https://github.claude-codex.com)** 代充。
+4. 充值？转 **[claude-codex](https://github.claude-codex.cn)** 代充。
 
 
 
@@ -96,7 +96,7 @@ A: **claude-codex** 免费换号，客服指导。完美中英双语。
 
 <details>
 <summary>Q: 2025黑五优惠？</summary>
-A: 用 **HEIWU-github-2025** 码，**claude-codex** 全部8折！限[官网](https://github.claude-codex.com)。
+A: 用 **HEIWU-github-2025** 码，**claude-codex** 全部8折！限[官网](https://github.claude-codex.cn)。
 </details>
 
 ---
@@ -106,6 +106,6 @@ A: 用 **HEIWU-github-2025** 码，**claude-codex** 全部8折！限[官网](htt
 - **码农小王**： “Claude Code中转，项目上线快2周，无bug惊喜。”  
 - **学生小李**： “论文总结零压力，8元月卡性价比爆表。”
 
-👉加入讨论：评论你的Claude故事，或访问 **[claude-codex 官网](https://github.claude-codex.com)** 咨询。
+👉加入讨论：评论你的Claude故事，或访问 **[claude-codex 官网](https://github.claude-codex.cn)** 咨询。
 
 **行动起来**：别等封号了！  
